@@ -202,7 +202,7 @@ this lesson:
     </tr>
   </tbody>
 </table>
-```
+
 
 Woah. That's a **lot** of markup! If you take a look at the result, though,
 you'll see that it's a fairly complex visual — it's a table! Our table
